@@ -9,7 +9,7 @@ new App({
     // or an array of bullet points
 
     // What do you associate with the term 'CI/CD'?
-    associations: ["cool"],
+    associations: ["yay"],
     // Which CI/CD tools do you use in your project?
     tools: "Github Action, Gitlab CI/CD, CircleCI",
     // What do you want to learn in this workshop?
