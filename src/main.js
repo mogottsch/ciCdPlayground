@@ -9,12 +9,12 @@ new App({
     // or an array of bullet points
 
     // What do you associate with the term 'CI/CD'?
-    associations: ["Ehm, what?"],
+    associations: ["cool"],
     // Which CI/CD tools do you use in your project?
-    tools: "Jenkins, maybe?",
+    tools: "Github Action, Gitlab CI/CD, CircleCI",
     // What do you want to learn in this workshop?
-    expectations: ["what you are talking about"],
+    expectations: ["I want to learn about Jenkins."],
     // What do you like to do when you're not coding?
-    hobbies: ["play chess", "do skydiving", "do my taxes"],
+    hobbies: ["building my smart home", "go hiking", "coding"],
   },
 });
